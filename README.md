@@ -30,4 +30,4 @@
 - [ ] [CVPR 2019] CRAFT: Character Region Awareness for Text Detection - Clova AI Research, NAVER Corp.
 
 ### Visualization
-- [X] [ICCV 2017] Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization - Virginia Tech, Georgia Institute of Technology.
+- [X] [ICCV 2017] Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization - Georgia Institute of Technology, Facebook AI Research.
