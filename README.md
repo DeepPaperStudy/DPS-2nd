@@ -17,17 +17,3 @@
 
 
 
-## 논문 리스트
-
-### Semantic Segmentation
-
-
-
-### Object Detection
-- [ ] [ICCV 2017] RetinaNet : Focal Loss for Dense Object Detection - Facebook AI Research (FAIR)
-
-### Text Detection
-- [ ] [CVPR 2019] CRAFT: Character Region Awareness for Text Detection - Clova AI Research, NAVER Corp.
-
-### Visualization
-- [X] [ICCV 2017] Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization - Georgia Institute of Technology, Facebook AI Research.
